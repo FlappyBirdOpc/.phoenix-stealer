@@ -1,0 +1,2 @@
+# .phoenix-stealer
+phoenix client
